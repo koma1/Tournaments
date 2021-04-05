@@ -12,7 +12,8 @@ uses
   Tournaments.Consts in 'Tournaments.Consts.pas',
   Tournaments.Alg1 in 'Tournaments.Alg1.pas',
   Tournaments.AlgCombos in 'Tournaments.AlgCombos.pas',
-  Tournaments.AlgCombosExt in 'Tournaments.AlgCombosExt.pas';
+  Tournaments.AlgCombosExt in 'Tournaments.AlgCombosExt.pas',
+  KMMath in 'KMMath.pas';
 
 {TourTableForm}
 
